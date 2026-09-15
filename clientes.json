@@ -1,0 +1,142 @@
+[
+  {
+    "cliente_id": 1,
+    "nombre": "Lucía Fernández",
+    "email": "lucia.fernández@correo.com",
+    "ciudad": "Santiago",
+    "fecha_registro": "2025-03-04"
+  },
+  {
+    "cliente_id": 2,
+    "nombre": "Martín Gómez",
+    "email": "martin.gomez@correo.com",
+    "ciudad": "Santiago",
+    "fecha_registro": "2025-05-02"
+  },
+  {
+    "cliente_id": 3,
+    "nombre": "Sofía Ramírez",
+    "email": "sofia.ramirez@correo.com",
+    "ciudad": "Madrid",
+    "fecha_registro": "2025-04-15"
+  },
+  {
+    "cliente_id": 4,
+    "nombre": "Diego Torres",
+    "email": "diego.torres@correo.com",
+    "ciudad": "Barcelona",
+    "fecha_registro": "2025-01-25"
+  },
+  {
+    "cliente_id": 5,
+    "nombre": "Valentina Ríos",
+    "email": "valentina.rios@correo.com",
+    "ciudad": "Bogotá",
+    "fecha_registro": "2025-06-18"
+  },
+  {
+    "cliente_id": 6,
+    "nombre": "Nicolás Herrera",
+    "email": "nicolás.herrera@correo.com",
+    "ciudad": "Bogotá",
+    "fecha_registro": "2025-04-01"
+  },
+  {
+    "cliente_id": 7,
+    "nombre": "Camila Sosa",
+    "email": "camila.sosa@correo.com",
+    "ciudad": "Bogotá",
+    "fecha_registro": "2025-04-16"
+  },
+  {
+    "cliente_id": 8,
+    "nombre": "Federico Díaz",
+    "email": "federico.diaz@correo.com",
+    "ciudad": "Lima",
+    "fecha_registro": "2025-08-10"
+  },
+  {
+    "cliente_id": 9,
+    "nombre": "Julieta Moreno",
+    "email": "julieta.moreno@correo.com",
+    "ciudad": "Lima",
+    "fecha_registro": "2025-01-14"
+  },
+  {
+    "cliente_id": 10,
+    "nombre": "Tomás Acosta",
+    "email": "tomás.acosta@correo.com",
+    "ciudad": "Lima",
+    "fecha_registro": "2025-06-17"
+  },
+  {
+    "cliente_id": 11,
+    "nombre": "Agustina Vega",
+    "email": "agustina.vega@correo.com",
+    "ciudad": "Barcelona",
+    "fecha_registro": "2025-01-26"
+  },
+  {
+    "cliente_id": 12,
+    "nombre": "Bruno Molina",
+    "email": "bruno.molina@correo.com",
+    "ciudad": "Lima",
+    "fecha_registro": "2025-04-14"
+  },
+  {
+    "cliente_id": 13,
+    "nombre": "Florencia Castro",
+    "email": "florencia.castro@correo.com",
+    "ciudad": "Santiago",
+    "fecha_registro": "2025-03-28"
+  },
+  {
+    "cliente_id": 14,
+    "nombre": "Ignacio Paz",
+    "email": "ignacio.paz@correo.com",
+    "ciudad": "Barcelona",
+    "fecha_registro": "2025-08-09"
+  },
+  {
+    "cliente_id": 15,
+    "nombre": "Renata Ibáñez",
+    "email": "renata.ibáñez@correo.com",
+    "ciudad": "Madrid",
+    "fecha_registro": "2025-03-05"
+  },
+  {
+    "cliente_id": 16,
+    "nombre": "Santiago Rojas",
+    "email": "santiago.rojas@correo.com",
+    "ciudad": "Ciudad de México",
+    "fecha_registro": "2025-02-18"
+  },
+  {
+    "cliente_id": 17,
+    "nombre": "Milagros Ortiz",
+    "email": "milagros.ortiz@correo.com",
+    "ciudad": "Madrid",
+    "fecha_registro": "2025-04-25"
+  },
+  {
+    "cliente_id": 18,
+    "nombre": "Emiliano Bravo",
+    "email": "emiliano.bravo@correo.com",
+    "ciudad": "Madrid",
+    "fecha_registro": "2025-04-19"
+  },
+  {
+    "cliente_id": 19,
+    "nombre": "Antonella Cruz",
+    "email": "antonella.cruz@correo.com",
+    "ciudad": "Bogotá",
+    "fecha_registro": "2025-03-13"
+  },
+  {
+    "cliente_id": 20,
+    "nombre": "Joaquín Silva",
+    "email": "joaquin.silva@correo.com",
+    "ciudad": "Santiago",
+    "fecha_registro": "2025-03-05"
+  }
+]
