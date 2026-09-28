@@ -8,7 +8,7 @@ La carpeta notebooks/ contiene un notebook por actividad, con código, resultado
 
 ## Actividades
 
-### Clase 2 — Pandas y Matplotlib
+### Clase 2 
 
 Notebook: notebooks/Ejercicios_Pandas_Matplotlib.ipynb. Datos: datos/ventas.csv, datos/clientes.json, datos/inventario.xlsx, datos/Automobile.csv.
 
