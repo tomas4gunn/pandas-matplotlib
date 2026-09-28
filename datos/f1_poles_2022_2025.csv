@@ -1,0 +1,93 @@
+temporada,gran_premio,circuito,longitud_km,curvas,zonas_drs,pole_seg
+2022,Bahrain,Bahrain International Circuit,5.412,15,3,90.55799999999999
+2022,Saudi Arabia,Jeddah Corniche Circuit,6.174,27,3,88.2
+2022,Australia,Albert Park Circuit,5.278,14,2,77.868
+2022,Emilia Romagna,Autodromo Internazionale Enzo e Dino Ferrari,4.909,18,1,78.793
+2022,Miami,Miami International Autodrome,5.412,19,3,88.79599999999999
+2022,Spain,Circuit de Barcelona-Catalunya,4.675,16,2,78.75
+2022,Monaco,Circuit de Monaco,3.337,19,1,71.376
+2022,Azerbaijan,Baku City Circuit,6.003,20,2,101.35900000000001
+2022,Canada,Circuit Gilles-Villeneuve,4.361,14,3,81.299
+2022,Great Britain,Silverstone Circuit,5.891,18,2,99.12899999999999
+2022,Austria,Red Bull Ring,4.318,10,3,64.984
+2022,France,Circuit Paul Ricard,5.842,15,2,90.872
+2022,Hungary,Hungaroring,4.381,14,1,77.377
+2022,Belgium,Circuit de Spa-Francorchamps,7.004,19,2,103.66499999999999
+2022,Netherlands,Circuit Zandvoort,4.259,14,2,70.342
+2022,Italy,Autodromo Nazionale Monza,5.793,11,2,80.161
+2022,Singapore,Marina Bay Street Circuit,5.063,23,3,109.412
+2022,Japan,Suzuka Circuit,5.807,18,1,89.25
+2022,United States,Circuit of the Americas,5.513,20,2,94.356
+2022,Mexico,Autodromo Hermanos Rodriguez,4.304,17,3,77.775
+2022,Brazil,Autodromo José Carlos Pace,4.309,15,2,70.881
+2022,Abu Dhabi,Yas Marina Circuit,5.281,16,2,83.824
+2023,Bahrain,Bahrain International Circuit,5.412,15,3,89.708
+2023,Saudi Arabia,Jeddah Corniche Circuit,6.174,27,3,88.265
+2023,Australia,Albert Park Circuit,5.278,14,4,76.732
+2023,Azerbaijan,Baku City Circuit,6.003,20,2,100.203
+2023,Miami,Miami International Autodrome,5.412,19,3,86.814
+2023,Monaco,Circuit de Monaco,3.337,19,1,71.365
+2023,Spain,Circuit de Barcelona-Catalunya,4.657,14,2,72.272
+2023,Canada,Circuit Gilles-Villeneuve,4.361,14,3,78.725
+2023,Austria,Red Bull Ring,4.318,10,3,64.391
+2023,Great Britain,Silverstone Circuit,5.891,18,2,86.72
+2023,Hungary,Hungaroring,4.381,14,2,76.60900000000001
+2023,Belgium,Circuit de Spa-Francorchamps,7.004,19,2,106.168
+2023,Netherlands,Circuit Zandvoort,4.259,14,2,70.56700000000001
+2023,Italy,Autodromo Nazionale Monza,5.793,11,2,80.294
+2023,Singapore,Marina Bay Street Circuit,4.94,19,3,90.98400000000001
+2023,Japan,Suzuka Circuit,5.807,18,1,88.877
+2023,Qatar,Lusail International Circuit,5.419,16,1,83.77799999999999
+2023,United States,Circuit of the Americas,5.513,20,2,94.723
+2023,Mexico,Autodromo Hermanos Rodriguez,4.304,17,3,77.166
+2023,Brazil,Autodromo José Carlos Pace,4.309,15,2,70.021
+2023,Las Vegas,Las Vegas Strip Circuit,6.201,17,2,92.726
+2023,Abu Dhabi,Yas Marina Circuit,5.281,16,2,83.445
+2024,Bahrain,Bahrain International Circuit,5.412,15,3,89.16499999999999
+2024,Saudi Arabia,Jeddah Corniche Circuit,6.174,27,3,87.47200000000001
+2024,Australia,Albert Park Circuit,5.278,14,4,75.91499999999999
+2024,Japan,Suzuka Circuit,5.807,18,1,88.14
+2024,China,Shanghai International Circuit,5.451,16,2,93.66
+2024,Miami,Miami International Autodrome,5.412,19,3,87.241
+2024,Emilia Romagna,Autodromo Internazionale Enzo e Dino Ferrari,4.909,19,1,74.746
+2024,Monaco,Circuit de Monaco,3.337,19,1,70.27
+2024,Canada,Circuit Gilles-Villeneuve,4.361,14,3,71.742
+2024,Spain,Circuit de Barcelona-Catalunya,4.657,14,2,71.383
+2024,Austria,Red Bull Ring,4.318,10,3,64.314
+2024,Great Britain,Silverstone Circuit,5.891,18,2,85.819
+2024,Hungary,Hungaroring,4.381,14,2,75.227
+2024,Belgium,Circuit de Spa-Francorchamps,7.004,19,2,113.15899999999999
+2024,Netherlands,Circuit Zandvoort,4.259,14,2,69.673
+2024,Italy,Autodromo Nazionale Monza,5.793,11,2,79.327
+2024,Azerbaijan,Baku City Circuit,6.003,20,2,101.36500000000001
+2024,Singapore,Marina Bay Street Circuit,4.94,19,4,89.525
+2024,United States,Circuit of the Americas,5.513,20,2,92.33
+2024,Mexico,Autodromo Hermanos Rodriguez,4.304,17,3,75.946
+2024,Brazil,Autodromo José Carlos Pace,4.309,15,2,83.405
+2024,Las Vegas,Las Vegas Strip Circuit,6.201,17,2,92.312
+2024,Qatar,Lusail International Circuit,5.419,16,1,80.095
+2024,Abu Dhabi,Yas Marina Circuit,5.281,16,2,82.595
+2025,Australia,Albert Park Circuit,5.278,14,4,75.096
+2025,China,Shanghai International Circuit,5.451,16,2,90.64099999999999
+2025,Japan,Suzuka Circuit,5.807,18,1,86.983
+2025,Bahrain,Bahrain International Circuit,5.412,15,3,89.84100000000001
+2025,Saudi Arabia,Jeddah Corniche Circuit,6.174,27,3,87.294
+2025,Miami,Miami International Autodrome,5.412,19,3,86.20400000000001
+2025,Emilia-Romagna,Autodromo Internazionale Enzo e Dino Ferrari,4.909,19,1,74.67
+2025,Monaco,Circuit de Monaco,3.337,19,1,69.95400000000001
+2025,Spain,Circuit de Barcelona-Catalunya,4.657,14,2,71.54599999999999
+2025,Canada,Circuit Gilles-Villeneuve,4.361,14,3,70.899
+2025,Austria,Red Bull Ring,4.326,10,3,63.971000000000004
+2025,Great Britain,Silverstone Circuit,5.891,18,2,84.892
+2025,Belgium,Circuit de Spa-Francorchamps,7.004,19,2,100.562
+2025,Hungary,Hungaroring,4.381,14,2,74.89
+2025,Netherlands,Circuit Zandvoort,4.259,14,2,68.662
+2025,Italy,Autodromo Nazionale Monza,5.793,11,2,78.792
+2025,Azerbaijan,Baku City Circuit,6.003,20,2,101.11699999999999
+2025,Singapore,Marina Bay Street Circuit,4.927,19,4,89.158
+2025,United States,Circuit of the Americas,5.513,20,2,92.50999999999999
+2025,Mexico,Autodromo Hermanos Rodriguez,4.304,17,3,75.586
+2025,Brazil,Autodromo José Carlos Pace,4.309,15,2,69.511
+2025,Las Vegas,Las Vegas Strip Circuit,6.201,17,2,107.934
+2025,Qatar,Lusail International Circuit,5.419,16,1,79.387
+2025,Abu Dhabi,Yas Marina Circuit,5.281,16,2,82.207
